@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "467437869618",
+    "firebase_url": "https://k-changa-default-rtdb.firebaseio.com",
+    "project_id": "k-changa",
+    "storage_bucket": "k-changa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467437869618:android:858ecb8976e4434895fa2b",
+        "android_client_info": {
+          "package_name": "com.muendo.k_changa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467437869618-bcd8tvk4ikrqbmd1e7pmstef869nt0ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muendo.k_changa",
+            "certificate_hash": "9d50285eefbca38fe4998e42052db3a3ebd91d37"
+          }
+        },
+        {
+          "client_id": "467437869618-2pj6qf973g7l9inn1hb0abu5smspehjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zHI9a_NL08jl1ITEM5jdysu8UJp5AZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467437869618-2pj6qf973g7l9inn1hb0abu5smspehjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
